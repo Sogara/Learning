@@ -38,7 +38,7 @@ public class CalculatorTest {
             case 0: break;
 
             default: System.out.println("Вы выбрали неверный пункт."); // вызывается, если введеное значение не соответсвует условию swith
-                
+
 
 
         }
