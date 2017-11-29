@@ -1,3 +1,5 @@
+package testCalculator;
+
 public class CalculatorTest {
 
     /**

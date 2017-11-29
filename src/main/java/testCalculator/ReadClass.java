@@ -1,3 +1,5 @@
+package testCalculator;
+
 import java.util.Scanner; // импорт класса Scanner
 
 /**
