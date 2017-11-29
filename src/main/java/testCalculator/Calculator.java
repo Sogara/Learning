@@ -14,7 +14,7 @@ public class Calculator {
     private double b;
 
 
-    public  Calculator(double a, double b) {
+    public  Calculator(double a, double b) { //описываем конструктор
 
         this.a = a; // с помощю this ссылаемся напрямую к переменной объекта <a>
         this.b = b;
